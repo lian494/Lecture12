@@ -1,0 +1,11 @@
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\obj\Debug\netcoreapp2.2\Family.csprojAssemblyReference.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\obj\Debug\netcoreapp2.2\Family.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\obj\Debug\netcoreapp2.2\Family.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\obj\Debug\netcoreapp2.2\Family.AssemblyInfo.cs
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\bin\Debug\netcoreapp2.2\Family.deps.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\bin\Debug\netcoreapp2.2\Family.runtimeconfig.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\bin\Debug\netcoreapp2.2\Family.runtimeconfig.dev.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\bin\Debug\netcoreapp2.2\Family.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\bin\Debug\netcoreapp2.2\Family.pdb
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\obj\Debug\netcoreapp2.2\Family.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture12\Family\obj\Debug\netcoreapp2.2\Family.pdb
